@@ -1,2 +1,3 @@
-# deneme1
-password.txt
+# deneme 1
+
+minecraft biliyor
